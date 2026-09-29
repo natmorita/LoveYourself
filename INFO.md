@@ -1,315 +1,442 @@
-# Contenido estructurado
+# LOVE YOURSELF
 
-## De la intención de comunicación a la estructura de información
+## TO LOVE, TO LOSE, TO FIND YOURSELF
 
-**Organizar antes de diseñar.**
+### Un recorrido a través de la trilogía *LOVE YOURSELF* de BTS
+La trilogía LOVE YOURSELF explora una idea que va cambiando a lo largo de tres álbumes: el amor puede comenzar dirigido hacia otra persona, convertirse en pérdida y conflicto, y finalmente llevar al descubrimiento de que el amor propio también forma parte de ese proceso.
 
-Esta guía propone un proceso para **investigar, seleccionar, jerarquizar y documentar contenido en Markdown** antes de convertirlo en un documento digital. El objetivo es producir información clara, consistente, reutilizable y fácil de interpretar por personas, sistemas digitales y asistentes de inteligencia artificial.
+Explora distintas etapas de la relación con el amor y con uno mismo. La historia comienza con LOVE YOURSELF 承 'Her', continúa con LOVE YOURSELF 轉 'Tear' y llega a su conclusión con LOVE YOURSELF 結 'Answer'. A lo largo, el amor pasa de estar dirigido hacia otra persona a convertirse en un proceso de pérdida, cuestionamiento, aceptación y, finalmente, amor propio.
 
----
+El recorrido comienza mirando hacia afuera, atraviesa el momento en el que esa mirada se rompe y termina regresando hacia uno mismo.
 
-## Índice
-
-1. [¿Qué es el contenido estructurado?](#1-qué-es-el-contenido-estructurado)
-2. [Intención de comunicación](#2-intención-de-comunicación)
-3. [Del universo al alcance](#3-del-universo-al-alcance)
-4. [Investigar y seleccionar](#4-investigar-y-seleccionar)
-5. [Unidades, atributos y relaciones](#5-unidades-atributos-y-relaciones)
-6. [Jerarquizar el contenido](#6-jerarquizar-el-contenido)
-7. [Identidad, intención y alcance](#7-identidad-intención-y-alcance)
-8. [Markdown como especificación](#8-markdown-como-especificación)
-9. [Construir un sistema de información](#9-construir-un-sistema-de-información)
-10. [Trabajar con inteligencia artificial](#10-trabajar-con-inteligencia-artificial)
-11. [Proceso de trabajo](#11-proceso-de-trabajo)
-12. [Criterios de validación](#12-criterios-de-validación)
+**TO LOVE → TO LOSE → TO FIND YOURSELF**
 
 ---
 
-## 1. ¿Qué es el contenido estructurado?
+# EL VIAJE
 
-Un documento digital no comienza con código, color o tipografía. Comienza con una pregunta:
+## I. TO LOVE — HER
 
-> **¿Qué queremos comunicar?**
+**Encontrar a alguien.**
 
-Una colección de datos no constituye por sí misma un mensaje. Los datos adquieren sentido cuando se **seleccionan, nombran, agrupan, ordenan y relacionan** de acuerdo con una intención.
+El amor comienza con el encuentro, la atracción y la ilusión. La persona amada ocupa un lugar central y aparece una nueva versión de nosotros mismos a través de esa relación.
 
-El **contenido estructurado** es información dividida en partes identificables, organizadas mediante una jerarquía y descritas con reglas consistentes. No se piensa como una página terminada, sino como un sistema de piezas que pueden comprenderse, actualizarse, reutilizarse y transformarse.
+↓
 
-Cada pieza debe responder:
+## II. TO LOSE — TEAR
 
-1. **¿Qué información contiene?**
-2. **¿Qué función cumple?**
-3. **¿Cómo se relaciona con las demás?**
+**Perder a alguien.**
 
-Para trabajar con claridad debemos distinguir tres capas:
+La imagen idealizada del amor comienza a romperse. Aparecen la separación, el dolor, la vulnerabilidad y la pregunta por la propia identidad.
 
-- **Contenido:** lo que el documento comunica.
-- **Estructura:** cómo se organizan y relacionan sus partes.
-- **Presentación:** cómo se hacen visibles mediante tipografía, color, espacio y composición.
+↓
 
-En esta etapa trabajaremos con **contenido y estructura**. La presentación visual vendrá después.
+## III. TO FIND YOURSELF — ANSWER
 
----
+**Encontrarse a uno mismo.**
 
-## 2. Intención de comunicación
-
-La **intención de comunicación** es la idea que dirige el documento. No es solamente el tema: es la lectura específica que queremos construir sobre él.
-
-Debe definir:
-
-- **Tema:** de qué trata.
-- **Enfoque:** desde qué perspectiva se aborda.
-- **Propósito:** para qué existe.
-- **Audiencia:** para quién se construye.
-- **Transformación:** qué debería comprender, sentir, cuestionar o hacer el usuario.
-- **Tono:** qué actitud tendrá la comunicación.
-
-La intención permite decidir qué información pertenece al proyecto y cuál debe quedar fuera. También orienta la jerarquía, el lenguaje y las relaciones que deberán hacerse visibles.
-
-> **La intención no aparece al final de la estructura: la estructura nace de ella.**
+Después de atravesar el amor y la pérdida, la mirada cambia de dirección. La respuesta deja de buscarse en otra persona y comienza a construirse desde uno mismo.
 
 ---
 
-## 3. Del universo al alcance
+# I. TO LOVE
 
-Todo tema forma parte de un universo más amplio. Intentar comunicarlo por completo suele producir documentos extensos y dispersos.
+# LOVE YOURSELF 承 'Her'
 
-**Delimitar** significa establecer el territorio concreto del proyecto:
+## El comienzo del amor
 
-- qué aspecto se investigará;
-- qué periodo, contexto o categoría se incluirá;
-- qué preguntas busca responder;
-- qué nivel de profundidad tendrá;
-- qué contenido queda fuera.
+*LOVE YOURSELF 承 'Her'* representa la primera etapa del recorrido. El álbum presenta el amor desde el enamoramiento, la ilusión, la atracción y el deseo de conectar profundamente con otra persona.
 
-Delimitar no empobrece la información. Le proporciona dirección y permite investigar con mayor profundidad.
+Esta etapa muestra una visión luminosa del amor, pero también introduce una pregunta que se desarrollará a lo largo de la trilogía: qué sucede cuando la necesidad de ser amado comienza a influir en la manera en que nos vemos a nosotros mismos.
 
-El alcance debe ser suficientemente específico para sostener una lectura clara y suficientemente amplio para que la intención pueda desarrollarse.
+### Conceptos
 
----
+**Enamoramiento · ilusión · conexión · idealización**
 
-## 4. Investigar y seleccionar
+### Universo visual
 
-La estructura debe surgir del conocimiento del tema, no de una plantilla impuesta antes de investigar.
+Las diferentes versiones de *Her* están asociadas con las letras **L, O, V y E**, construyendo distintas representaciones del concepto del amor.
 
-La investigación permite descubrir conceptos, entidades, atributos, categorías, relaciones, patrones y vacíos de información. Durante este proceso conviene distinguir:
-
-- **Hechos:** información verificable mediante fuentes.
-- **Interpretaciones:** lecturas argumentadas a partir de los hechos.
-- **Decisiones editoriales:** elecciones sobre qué incluir y cómo organizarlo.
-- **Pendientes:** datos incompletos, dudosos o contradictorios.
-
-Toda información importante debe conservar su **fuente, fecha y estado de verificación**. Una estructura consistente pierde valor si contiene datos imprecisos o imposibles de rastrear.
-
-Investigar amplía el universo; estructurar exige reducirlo. Cada pieza puede clasificarse como:
-
-- **Esencial:** necesaria para comprender la intención.
-- **De apoyo:** amplía, demuestra o contextualiza.
-- **Complementaria:** enriquece, pero puede omitirse.
-- **Excluida:** repite, desvía o pertenece a otro alcance.
-
-> **Incluir más información no significa comunicar mejor.**
+La estética de esta etapa presenta una visión más luminosa y atractiva del enamoramiento, que posteriormente contrastará con el tono de *Tear*.
 
 ---
 
-## 5. Unidades, atributos y relaciones
+## EL RECORRIDO — HER
 
-Una **unidad de contenido** es una pieza del sistema que puede identificarse y comprenderse por sí misma: una persona, obra, acontecimiento, lugar, concepto o proceso.
+### 01 — Serendipity
 
-Cada unidad necesita:
+**El encuentro**
 
-- una identidad clara;
-- una función dentro del documento;
-- atributos definidos;
-- relaciones con otras unidades;
-- reglas sobre qué información es obligatoria u opcional.
+La canción presenta el amor como un encuentro extraordinario entre dos personas. La conexión aparece como algo inesperado, pero profundamente significativo.
 
-Para modelar el contenido debemos reconocer:
-
-- **Entidad:** elemento principal que se documenta.
-- **Atributo:** característica que describe a la entidad.
-- **Categoría:** criterio para agrupar entidades.
-- **Relación:** vínculo entre elementos o conceptos.
-- **Metadato:** información que identifica o administra el contenido.
-- **Acción:** posibilidad que se ofrece al usuario.
-
-Nombrar estas partes reduce ambigüedades y permite construir un modelo repetible. En lugar de redactar cada página desde cero, creamos una estructura capaz de recibir distintos contenidos sin perder coherencia.
+**En el viaje:** representa el primer descubrimiento del amor.
 
 ---
 
-## 6. Jerarquizar el contenido
+### 02 — DNA
 
-La **jerarquía** establece niveles de importancia y dependencia. Indica qué presenta el documento, qué ideas lo desarrollan y qué información las amplía.
+**La conexión**
 
-Una jerarquía clara permite:
+El amor se presenta como una conexión que parece estar profundamente ligada a quienes somos. La canción enfatiza la sensación de que ese encuentro estaba destinado a suceder.
 
-- reconocer el tema principal;
-- recorrer el documento sin leerlo completo;
-- comprender qué ideas dependen de otras;
-- distinguir contenido principal y complementario;
-- traducir posteriormente la estructura a HTML semántico.
-
-Los títulos identifican niveles; los párrafos desarrollan ideas; las listas agrupan elementos equivalentes y el énfasis señala conceptos relevantes sin crear nuevas secciones.
-
-La jerarquía no consiste en hacer una frase visualmente más grande. Consiste en asignarle una **función estructural**.
-
-El índice es una prueba de esa organización. Si al leer únicamente los títulos y subtítulos no se comprende el recorrido, la arquitectura todavía necesita trabajo.
+**En el viaje:** la coincidencia se transforma en una conexión inevitable.
 
 ---
 
-## 7. Identidad, intención y alcance
+### 03 — Dimple
 
-La entrada de un documento debe comunicar rápidamente tres funciones:
+**La fascinación**
 
-1. **Identidad:** qué es.
-2. **Intención:** qué idea lo orienta.
-3. **Alcance:** qué encontrará el usuario y para qué le servirá.
+La atracción se concentra en un pequeño detalle de la persona amada. Algo particular puede convertirse en aquello que hace que alguien resulte irresistible.
 
-Estas funciones pueden expresarse mediante **título, tagline y descriptor**, pero no constituyen una fórmula obligatoria.
-
-### Título
-
-Identifica el proyecto o documento. Debe ser breve y reconocible.
-
-### Tagline
-
-Condensa la intención en una frase breve. Posiciona el proyecto sin repetir el título.
-
-### Descriptor
-
-Explica con mayor precisión el tema, el enfoque y el propósito.
-
-Según el tipo de documento, esta entrada también puede adoptar otras formas: título y resumen, categoría y título, pregunta y respuesta o título, metadatos e introducción.
-
-La estructura adecuada no depende de una plantilla universal, sino de la información que el usuario necesita comprender primero.
+**En el viaje:** representa la fascinación por el otro.
 
 ---
 
-## 8. Markdown como especificación
+### 04 — Best Of Me
 
-Markdown es un formato de texto plano para escribir documentos estructurados mediante marcas legibles. En este proyecto funcionará como una **especificación de información** entre la investigación y la implementación.
+**La entrega**
 
-Cada recurso debe cumplir una función:
+La relación comienza a implicar confianza y entrega emocional. Amar significa permitir que otra persona conozca y reciba una parte importante de nosotros.
 
-- **Títulos y subtítulos:** representan niveles jerárquicos.
-- **Negritas:** destacan conceptos o decisiones centrales.
-- *Itálicas:* introducen un énfasis moderado o una variación de voz.
-- **Párrafos:** desarrollan una idea a la vez.
-- **Listas:** agrupan pasos, condiciones o elementos equivalentes.
-- **Citas:** aíslan principios, preguntas o fragmentos provenientes de una fuente.
-- **Enlaces:** conectan con fuentes, referencias o acciones.
-- **Imágenes:** aportan información y necesitan descripción y procedencia.
-
-La **negrita comunica importancia, no decoración**. La *itálica modifica el tono o énfasis de una frase*. Los encabezados no deben utilizarse sólo para producir diferencias de tamaño.
-
-Markdown no define la apariencia final. Hace explícita la función de cada parte para que el contenido pueda leerse, revisarse, versionarse y transformarse.
+**En el viaje:** el enamoramiento se transforma en una entrega más profunda.
 
 ---
 
-## 9. Construir un sistema de información
+### 05 — Pied Piper
 
-Una estructura se convierte en **sistema** cuando establece reglas que pueden aplicarse a múltiples unidades.
+**La atracción**
 
-El sistema define:
+La canción utiliza la figura del flautista de Hamelín para jugar con la idea de una atracción tan fuerte que resulta difícil resistirse a ella. También funciona como una referencia a la relación entre BTS y sus seguidores.
 
-- qué unidades y atributos existen;
-- cuáles son obligatorios u opcionales;
-- cómo se nombran y ordenan;
-- qué relaciones pueden establecerse;
-- qué reglas deben mantenerse.
-
-Debe ser **estable en sus reglas y flexible en sus contenidos**. La consistencia permite reconocer un patrón; la homogeneidad vuelve comparables las unidades y la variación conserva sus diferencias reales.
-
-Separar contenido y presentación facilita modificar el diseño sin reescribir la información y producir distintas interfaces desde una misma fuente.
-
-Para poder migrar, el contenido debe ser:
-
-- **modular:** cada unidad puede trasladarse;
-- **explícito:** su función está nombrada;
-- **predecible:** conserva reglas;
-- **trazable:** sus fuentes pueden verificarse;
-- **actualizable:** una parte puede cambiar sin reconstruir todo.
-
-> **El diseño visual hace perceptible la estructura; no debe inventarla después.**
+**En el viaje:** muestra el poder que puede tener aquello que nos atrae.
 
 ---
 
-## 10. Trabajar con inteligencia artificial
+### 06 — MIC Drop
 
-La inteligencia artificial puede investigar, sintetizar, clasificar, detectar inconsistencias y transformar contenido. Para obtener resultados consistentes necesita instrucciones que definan:
+**La seguridad**
 
-- intención, alcance y audiencia;
-- estructura y jerarquía;
-- criterios de inclusión y exclusión;
-- fuentes y restricciones;
-- formato y resultado esperado.
+La canción cambia el tono romántico del álbum para presentar una actitud de seguridad y orgullo frente a quienes cuestionan el éxito de BTS.
 
-La IA puede asistir en la ejecución, pero no sustituye las decisiones del autor. La responsabilidad sobre la intención, la veracidad y la pertinencia permanece en quien construye el documento.
-
-El autor debe definir el enfoque, verificar los datos, distinguir hechos de interpretaciones, revisar omisiones y documentar el uso de IA.
-
-> **La calidad del resultado depende de la calidad de las decisiones que el prompt logra expresar.**
+**En el viaje:** recuerda que la identidad del individuo existe más allá de la relación amorosa.
 
 ---
 
-## 11. Proceso de trabajo
+### 07 — Go Go
 
-1. **Reconocer:** identificar el universo del tema.
-2. **Delimitar:** definir el alcance.
-3. **Investigar:** reunir información y fuentes.
-4. **Formular:** establecer intención, audiencia y tono.
-5. **Seleccionar:** conservar lo que sostiene la intención.
-6. **Modelar:** definir unidades, atributos y relaciones.
-7. **Jerarquizar:** ordenar por importancia y dependencia.
-8. **Escribir:** documentar la estructura en Markdown.
-9. **Revisar:** comprobarla mediante el índice.
-10. **Validar:** verificar claridad, consistencia y fuentes.
-11. **Transformar:** utilizar el documento como origen de otros formatos.
+**El impulso**
+
+Con una actitud despreocupada, la canción aborda el deseo de disfrutar el presente y actuar impulsivamente.
+
+**En el viaje:** representa el lado espontáneo de esta primera etapa.
 
 ---
 
-## 12. Criterios de validación
+### 08 — Outro: Her
 
-Antes de considerar terminado el documento, debemos comprobar:
+**La reflexión**
 
-### Intención y alcance
+El cierre del álbum reúne distintas ideas sobre el amor y sobre las versiones de uno mismo que aparecen dentro de una relación.
 
-- ¿Comunica una idea específica y mantiene el enfoque?
-- ¿La audiencia, el propósito y los límites son claros?
-- ¿Toda la información incluida cumple una función?
-
-### Investigación
-
-- ¿Los datos y fuentes pueden verificarse?
-- ¿Se distinguen hechos, interpretaciones y pendientes?
-
-### Estructura
-
-- ¿Cada sección y unidad cumple una función?
-- ¿Los atributos equivalentes conservan nombres consistentes?
-- ¿El índice permite comprender el recorrido?
-- ¿La jerarquía puede trasladarse a HTML?
-
-### Reutilización e IA
-
-- ¿El contenido puede separarse de su presentación?
-- ¿La estructura puede aplicarse a otras unidades y formatos?
-- ¿Las instrucciones dadas a la IA son claras?
-- ¿El resultado fue revisado y no presenta invenciones como hechos?
+**En el viaje:** la primera etapa termina dejando abierta una pregunta: qué ocurre cuando la imagen idealizada del amor comienza a desaparecer.
 
 ---
 
-## Principio general
+## TRANSICIÓN
 
-> **La intención determina qué información necesitamos. La estructura organiza sus relaciones. La jerarquía establece cómo se comprende. Markdown documenta esas decisiones para que puedan revisarse, reutilizarse y transformarse.**
+El amor que comenzó como encuentro empieza a convertirse en ausencia.
 
-Un documento digital comienza cuando una colección de datos se convierte en una estructura capaz de comunicar con claridad.
+El hilo continúa, pero cambia de dirección.
+
+**TO LOVE → TO LOSE**
 
 ---
 
-## Referencias conceptuales
+# II. TO LOSE
 
-- [An introduction to structured content — Digital.gov](https://digital.gov/resources/an-introduction-to-structured-content)
-- [Writing for Web Accessibility — W3C Web Accessibility Initiative](https://www.w3.org/WAI/tips/writing/)
-- [CommonMark Specification](https://spec.commonmark.org/)
+# LOVE YOURSELF 轉 'Tear'
 
+## Cuando el amor comienza a romperse
+
+*LOVE YOURSELF 轉 'Tear'* representa el momento de ruptura dentro del recorrido.
+
+La ilusión de *Her* da paso a la pérdida, la separación y el conflicto. El problema ya no es únicamente perder a otra persona, sino enfrentarse a aquello que se perdió de uno mismo dentro de la relación.
+
+La pregunta cambia:
+
+**¿Qué queda de mí cuando ese amor desaparece?**
+
+### Conceptos
+
+**Pérdida · separación · dolor · identidad · vulnerabilidad**
+
+### Universo visual
+
+*Tear* continúa el lenguaje conceptual de *Her*, pero desde una perspectiva más oscura e introspectiva.
+
+Las letras **Y, O, U, R** forman parte de la continuidad visual entre ambas etapas.
+
+---
+
+## EL RECORRIDO — TEAR
+
+### 01 — Singularity
+
+**El cuestionamiento**
+
+La canción introduce una sensación de aislamiento y de conflicto interno. Aparece la idea de esconder partes de uno mismo mientras se permanece atrapado en una situación emocional.
+
+**En el viaje:** comienza el cuestionamiento de la propia identidad.
+
+---
+
+### 02 — FAKE LOVE
+
+**La pérdida de identidad**
+
+La canción plantea qué ocurre cuando una persona cambia quién es para conseguir o conservar el amor de alguien más.
+
+**En el viaje:** amar deja de sentirse como una experiencia de libertad y comienza a convertirse en una pérdida de uno mismo.
+
+---
+
+### 03 — The Truth Untold
+
+**La vulnerabilidad**
+
+Existe el deseo de acercarse a otra persona, pero también el miedo de mostrar aquello que realmente somos y no ser aceptados.
+
+**En el viaje:** representa el miedo a ser visto completamente.
+
+---
+
+### 04 — 134340
+
+**La ausencia**
+
+La canción utiliza la situación de Plutón como metáfora para representar a alguien que alguna vez ocupó un lugar importante y que después quedó distante.
+
+**En el viaje:** la persona que antes estaba en el centro ahora se encuentra lejos.
+
+---
+
+### 05 — Paradise
+
+**La pausa**
+
+La canción cuestiona la presión de tener siempre un gran objetivo y plantea la posibilidad de descansar y avanzar a nuestro propio ritmo.
+
+**En el viaje:** representa un momento de pausa dentro del conflicto.
+
+---
+
+### 06 — Love Maze
+
+**El intento de permanecer**
+
+El amor aparece como un laberinto lleno de dudas y dificultades. A pesar de ello, permanece el deseo de encontrar un camino para continuar.
+
+**En el viaje:** muestra el intento de encontrar una salida sin abandonar completamente la relación.
+
+---
+
+### 07 — Magic Shop
+
+**El refugio**
+
+La canción construye un espacio simbólico de consuelo basado en la conexión entre BTS y sus seguidores.
+
+**En el viaje:** después del conflicto aparece la necesidad de encontrar un lugar seguro.
+
+---
+
+### 08 — Airplane pt.2
+
+**El camino recorrido**
+
+La canción reflexiona sobre el recorrido de BTS desde sus comienzos hasta su crecimiento como artistas.
+
+**En el viaje:** introduce la idea de mirar hacia atrás y reconocer cuánto se ha transformado la propia vida.
+
+---
+
+### 09 — Anpanman
+
+**El deseo de ayudar**
+
+Inspirada en el personaje japonés Anpanman, la canción presenta el deseo de ayudar a otros sin necesidad de convertirse en un héroe perfecto.
+
+**En el viaje:** muestra que no es necesario ser perfecto para tener un propósito.
+
+---
+
+### 10 — So What
+
+**La liberación**
+
+La canción adopta una actitud de liberación frente a las preocupaciones y el miedo.
+
+**En el viaje:** representa el momento en que comienza a ser posible avanzar.
+
+---
+
+### 11 — Outro: Tear
+
+**La ruptura**
+
+El álbum llega a su punto de mayor tensión emocional. La relación con el amor que comenzó en *Her* termina enfrentándose directamente con la pérdida.
+
+**En el viaje:** representa el final de una etapa y deja espacio para comenzar a reconstruirse.
+
+---
+
+## TRANSICIÓN
+
+El hilo que conectaba todo el recorrido parece romperse.
+
+Pero la historia no termina ahí.
+
+Después de perder al otro, queda una pregunta diferente:
+
+**¿Quién soy cuando dejo de definirme a través de alguien más?**
+
+El recorrido continúa.
+
+**TO LOSE → TO FIND YOURSELF**
+
+---
+
+# III. TO FIND YOURSELF
+
+# LOVE YOURSELF 結 'Answer'
+
+## La respuesta
+
+*LOVE YOURSELF 結 'Answer'* funciona como la conclusión de la trilogía.
+
+Después del enamoramiento y la pérdida, la historia cambia de dirección. La respuesta ya no se encuentra en otra persona, sino en la relación que cada individuo construye consigo mismo.
+
+El amor propio aparece como un proceso de aceptación: reconocer las propias contradicciones, aceptar las imperfecciones y dejar de depender completamente de la mirada de los demás para definir quién somos.
+
+### Conceptos
+
+**Aceptación · identidad · libertad · crecimiento · amor propio**
+
+### Universo visual
+
+*Answer* reúne elementos de las etapas anteriores y los lleva hacia una resolución. Su narrativa visual continúa explorando distintas versiones del yo y acompaña el paso de la dependencia emocional hacia la aceptación personal.
+
+---
+
+## EL RECORRIDO — ANSWER
+
+### 01 — Epiphany
+
+**El descubrimiento**
+
+La búsqueda del amor comienza a cambiar de dirección. Antes de esperar que alguien más nos ame, aparece la necesidad de reconocer nuestro propio valor.
+
+**En el viaje:** representa el momento en que comienza a descubrirse el amor propio.
+
+---
+
+### 02 — I'm Fine
+
+**La autonomía**
+
+Después del dolor, aparece la posibilidad de estar bien sin depender de otra persona para encontrar estabilidad.
+
+**En el viaje:** recuperar la autonomía después de la pérdida.
+
+---
+
+### 03 — IDOL
+
+**La identidad**
+
+La canción cuestiona la necesidad de ajustarse a las expectativas externas y afirma la posibilidad de aceptar quién eres sin permitir que otros definan tu identidad.
+
+**En el viaje:** recuperar la propia identidad.
+
+---
+
+### 04 — Answer: Love Myself
+
+**La respuesta**
+
+La idea central de la trilogía llega a su conclusión: aprender a amarse implica aceptar quién eres, incluyendo las partes imperfectas y contradictorias que forman parte de ti.
+
+**En el viaje:** la búsqueda que comenzó mirando hacia otra persona termina regresando hacia uno mismo.
+
+---
+
+# EL HILO COMPLETO
+
+La trilogía puede entenderse como un recorrido de transformación:
+
+## HER
+
+**Encontrar a alguien.**
+
+El amor comienza mirando hacia otra persona.
+
+↓
+
+## TEAR
+
+**Perder a alguien.**
+
+La pérdida obliga a cuestionar la relación con el otro y con uno mismo.
+
+↓
+
+## ANSWER
+
+**Encontrarse a uno mismo.**
+
+La mirada regresa hacia el interior y el amor propio se convierte en la respuesta.
+
+---
+
+# TO LOVE
+
+El amor comienza como una experiencia compartida.
+
+**Encuentro · ilusión · conexión**
+
+↓
+
+# TO LOSE
+
+La pérdida revela aquello que se había construido alrededor del otro.
+
+**Dolor · separación · identidad**
+
+↓
+
+# TO FIND YOURSELF
+
+La experiencia se transforma en una oportunidad para reconocerse y aceptarse.
+
+**Aceptación · libertad · amor propio**
+
+---
+
+# CONCLUSIÓN
+
+*LOVE YOURSELF* no presenta el amor propio como algo separado del amor hacia los demás. La trilogía muestra un proceso en el que ambas experiencias están relacionadas.
+
+Primero aparece el deseo de amar y ser amado. Después llega la pérdida y, con ella, el cuestionamiento de quiénes somos cuando una relación deja de definirnos. Finalmente, la mirada regresa hacia nosotros mismos.
+
+El recorrido no termina al dejar de amar a otra persona.
+
+Termina cuando aprendemos que **también somos alguien a quien debemos aprender a amar.**
+
+# TO LOVE.
+
+# TO LOSE.
+
+# TO FIND YOURSELF.
+
+## LOVE YOURSELF.
