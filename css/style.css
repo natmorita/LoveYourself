@@ -104,16 +104,16 @@ header p {
 h1 {
   font-family: loveloline_light, var(--font-family-heading);
   font-size: var(--font-size-h1);
-  margin: 3rem 0;
+  margin: 1rem 0;
   padding: 0;
-  line-height: 2em;
+  line-height: 1em;
 }
 
 h2 {
 font-family: bebas neue, var(--font-family-heading);
   font-size: var(--font-size-h2);
-  margin: 4rem 0;
-  padding: 2;
+  margin: 2rem 0;
+  padding: 0;
   line-height: 1.2em;
 }
 
